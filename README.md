@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Josh Shamalov, and I am a freshman at Adelphi University studying Computer Science. 
+My name is Josh Shamalov, and I am a Sophomore at Adelphi University studying Computer Science. 
 
 - 👀 I’m interested in Software Engineering and Swimming.
 - 🌱 I’m currently learning Python.
